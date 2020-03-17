@@ -26,11 +26,7 @@ SOFTWARE.
 
 import requests
 
-MY_KEY = "NmM3NWNiZGUtZjE4My00ZGMwLTlmMTQtZDk1ZDNiOTc5YTEzZDk4NThmZWItMWI5_PF84_1eb65fdf-9643-417f-9974-ad72cae0e10f"
-#send a request
-ENDPOINT = ""
-#response = requests.get( ENDPOINT, headers = {"Authorization" : "Bearer " + MY_KEY} )
-
+MY_KEY = "YOUR_KEY_HERE"
 
 '''
 The handleResponse function takes a URL and an optional payload parameter and 
